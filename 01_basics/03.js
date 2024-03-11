@@ -11,3 +11,4 @@ console.log(typeof ValuInNumber);
 // the string into a number it's convert the string to 
 // a number but cant compleatly change it it's an inbuilt error)
 console.log(ValuInNumber)
+console.log("nazmul")
