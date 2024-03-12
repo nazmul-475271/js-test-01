@@ -27,3 +27,9 @@ let SomeNumber = 33
 let StringNumber= String(SomeNumber)
 console.log(StringNumber)
 console.log(typeof StringNumber)
+
+let num1 =200
+num1++//200+1=201;
+console.log(num1)
+++num1//1+201=202;
+console.log(num1)
