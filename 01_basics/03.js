@@ -12,3 +12,18 @@ console.log(typeof ValuInNumber);
 // a number but cant compleatly change it it's an inbuilt error)
 console.log(ValuInNumber)
 console.log("nazmul")
+
+// 1>=true,0>=false
+// "">=false
+// "nazmul"= true
+let ForBoleanValue = 1
+let booleanTransfer = Boolean(ForBoleanValue)
+console.log(booleanTransfer)
+console.table([booleanTransfer, ValuInNumber, score])
+
+
+// For string number it will be convert number to string
+let SomeNumber = 33
+let StringNumber= String(SomeNumber)
+console.log(StringNumber)
+console.log(typeof StringNumber)
